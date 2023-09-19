@@ -1,4 +1,4 @@
-package st.cri.springboot
+package st.cri.app
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
